@@ -67,6 +67,7 @@ Locales['es'] = {
         notEnoughBalance = "¡Saldo insuficiente para el pago de cuota!",
         installmentPaymentSuccess = "Tu pago de cuota fue cobrado exitosamente.",
         noAvailableSpawnPoints = "No se encontraron puntos de aparición disponibles",
+        notAuthorized = "No tienes permisos para acceder a este showroom",
     },
     -- DEBUG
     debug = {

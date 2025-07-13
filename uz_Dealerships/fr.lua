@@ -71,6 +71,7 @@ Locales['fr'] = {
         notEnoughBalance = "Solde insuffisant pour le paiement de l’échéance !",
         installmentPaymentSuccess = "Votre paiement a été effectué avec succès.",
         noAvailableSpawnPoints = "Aucun point d'apparition disponible trouvé",
+        notAuthorized = "Vous n'êtes pas autorisé à accéder à cette concession",
     },
 
     -- DEBUG

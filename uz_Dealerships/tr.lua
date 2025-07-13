@@ -72,6 +72,7 @@ Locales['tr'] = {
         notEnoughBalance = "Taksit ödemesi için yeterli bakiyeniz yok!",
         installmentPaymentSuccess = "Taksit ödemeniz başarıyla tahsil edildi.",
         noAvailableSpawnPoints = "Mevcut oluşturma noktası bulunamadı",
+        notAuthorized = "Bu vitrini açmak için yetkiniz yok",
     },
 
     -- DEBUG

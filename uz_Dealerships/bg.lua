@@ -70,6 +70,7 @@ Locales['bg'] = {
         notEnoughBalance = "Недостатъчен баланс за плащане на вноска!",
         installmentPaymentSuccess = "Вашето плащане на вноска е успешно събрано.",
         noAvailableSpawnPoints = "Няма налични точки за появяване",
+        notAuthorized = "Нямате достъп до този шоурум",
     },
 
     -- DEBUG

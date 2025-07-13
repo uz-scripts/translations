@@ -72,6 +72,7 @@ Locales['en'] = {
         notEnoughBalance = "Not enough balance for installment payment!",
         installmentPaymentSuccess = "Your installment payment was successfully collected.",
         noAvailableSpawnPoints = "No available spawn points found",
+        notAuthorized = "You are not authorized to access this showroom",
     },
 
     -- DEBUG

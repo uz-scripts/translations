@@ -68,6 +68,7 @@ Locales['pt'] = {
         notEnoughBalance = "Saldo insuficiente para pagamento da parcela!",
         installmentPaymentSuccess = "Seu pagamento de parcela foi coletado com sucesso.",
         noAvailableSpawnPoints = "Nenhum ponto de spawn disponível encontrado",
+        notAuthorized = "Você não tem permissão para acessar esta concessionária",
     },
     -- DEBUG
     debug = {

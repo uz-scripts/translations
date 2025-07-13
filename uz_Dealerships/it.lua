@@ -68,6 +68,7 @@ Locales['it'] = {
         notEnoughBalance = "Saldo insufficiente per il pagamento della rata!",
         installmentPaymentSuccess = "Il pagamento della tua rata è stato raccolto con successo.",
         noAvailableSpawnPoints = "Nessun punto di spawn disponibile trovato",
+        notAuthorized = "Non sei autorizzato ad accedere a questo concessionario",
     },
     -- DEBUG
     debug = {

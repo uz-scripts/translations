@@ -68,6 +68,7 @@ Locales['de'] = {
         notEnoughBalance = "Nicht genug Guthaben für Ratenzahlung!",
         installmentPaymentSuccess = "Ihre Ratenzahlung wurde erfolgreich eingezogen.",
         noAvailableSpawnPoints = "Keine verfügbaren Spawn-Punkte gefunden",
+        notAuthorized = "Sie sind nicht berechtigt, auf dieses Autohaus zuzugreifen",
     },
     -- DEBUG
     debug = {

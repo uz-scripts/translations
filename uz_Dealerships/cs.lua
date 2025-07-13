@@ -70,6 +70,7 @@ Locales['cs'] = {
         notEnoughBalance = "Nemate dostatek penez na splatku!",
         installmentPaymentSuccess = "Splatka za vase vozidlo byla uspesne odectena.",
         noAvailableSpawnPoints = "Zadna volna mista pro spawn vozidla",
+        notAuthorized = "Nemáte oprávnění k přístupu k tomuto prodejci.",
     },
 
     -- DEBUG
